@@ -6,7 +6,7 @@ This project performs **Person Re-Identification** in videos using **YOLOv11** f
 
 ## 🎥 Demo
 
-![Demo Video](https://user-images.githubusercontent.com/your-username/video.mp4)
+![Demo Video](https://github.com/user-attachments/assets/0deaefca-03ce-4578-b428-f1d4609c5671)
 
 ---
 
