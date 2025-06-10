@@ -18,6 +18,9 @@ pip install scikit-learn
 pip install ultralytics
 
 ## 📜 Run the Script
-python prereid.py
 
+To run the person re-identification script:
+
+```bash
+python prereid.py
 
