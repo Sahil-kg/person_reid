@@ -4,13 +4,20 @@ This project performs **Person Re-Identification** in videos using **YOLOv11** f
 
 ---
 
-## 🎥 Demo
+## ⚙️ Environment Setup
 
-![Demo Video](https://github.com/user-attachments/assets/0deaefca-03ce-4578-b428-f1d4609c5671)
-
----
-
-## 📜 Run the Script
+Create and activate the conda environment:
 
 ```bash
+conda create -n strongsort python=3.8 -y
+conda activate strongsort
+pip install torch torchvision torchaudio
+pip install opencv-python
+pip install scipy
+pip install scikit-learn
+pip install ultralytics
+
+## 📜 Run the Script
 python prereid.py
+
+
