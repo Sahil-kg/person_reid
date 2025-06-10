@@ -24,3 +24,5 @@ To run the person re-identification script:
 ```bash
 python prereid.py
 
+
+and also please change the paths of weight in the sccript manually and use best.pt weights
